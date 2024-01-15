@@ -6,8 +6,6 @@
 ### - 📫 How to reach me: just send me hi at LinkedIn @danieletravessa.
 ### - :hatching_chick: I'm a newborn in the tech field. So feel free to reach out for any practical tips or bits of advice.
 
-Skills --> ADVPL, JavaScript, Python, SQL
-
 <!---
 DanieleTravessa/DanieleTravessa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
