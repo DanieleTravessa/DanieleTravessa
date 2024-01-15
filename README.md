@@ -4,7 +4,7 @@
 ### - 🌱 I’m currently learning Data Science.
 ### - 💞️ I’m looking to collaborate in the IT community.
 ### - 📫 How to reach me: just send me hi at LinkedIn @danieletravessa.
-### - :hatching_chick: I'm a newborn in the tech field. So feel free to reach out for any practical tips or bits of advice.
+### - :hatching_chick: I'm a newborn in the tech field. So feel free to reach out to me for any practical tips or bits of advice.
 
 <!---
 DanieleTravessa/DanieleTravessa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
