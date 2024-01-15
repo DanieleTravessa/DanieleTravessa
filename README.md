@@ -1,6 +1,6 @@
-# - 👋 Hi, I’m @DanieleTravessa, working as a FullStack Developer and focusing on the Data Science Field.
+# - 👋🏽 Hi, I’m @DanieleTravessa, working as a FullStack Developer and focusing on the Data Science Field.
 ### - 👀 I'm interested in ADVPL, JavaScript, Python, SQL, R, HTML, CSS, 
-### - ✨🔎 I practice Lifelong Learning.
+### - 🔎 I practice Lifelong Learning.
 ### - 🌱 I’m currently learning Data Science.
 ### - 💞️ I’m looking to collaborate on IT community.
 #### - 📫 How to reach me: just send me hi at LinkedIn @danieletravessa.
