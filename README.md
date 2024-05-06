@@ -1,4 +1,5 @@
-## - 👋🏽 Hi, I’m @DanieleTravessa, a FullStack Developer embarking on Data Science Field Universe.
+## - 👋🏽 Hello, World!!
+## I’m @DanieleTravessa, a FullStack Developer embarking on Data Science Field Universe.
 ![octocat-1714863745714](https://github.com/DanieleTravessa/DanieleTravessa/assets/115778081/3dc21546-4b6c-402f-8c2c-df12b5f4da12)
 #### - 👀 I'm interested in ADVPL, JavaScript, Python, SQL, R, HTML, and CSS.
 #### - 🔎 I practice Lifelong Learning.
