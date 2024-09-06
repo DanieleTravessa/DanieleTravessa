@@ -5,7 +5,7 @@
 #### - 🔎 I practice Lifelong Learning.
 #### - 🌱 I’m currently learning Data Science.
 #### - 💞️ I’m looking to collaborate in the IT community.
-#### - 📫 How to reach me: send me hi at  [![LinkedIn](https://skillicons.dev/icons:i=linkedin)](https://linkedin.com/in/danieletravessa))
+#### - 📫 How to reach me: send me hi at  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/danieletravessa))
 #### - 🐣 I'm a newborn in the tech field. So feel free to reach out to me for any practical tips or bits of advice.
 
 <!---
@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 ![octocat-1714863745714](https://github.com/DanieleTravessa/DanieleTravessa/assets/115778081/3dc21546-4b6c-402f-8c2c-df12b5f4da12)
 --->
 ## Skills
-  [![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,html,css,postgres,mongodb,mysql,go,visualstudio,vscode)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,html,css,postgres,mongodb,mysql,go)](https://skillicons.dev)  
+## Tools
   [![My Tools](https://skillicons.dev/icons?i=git,github,postgres,mongodb,mysql,go,visualstudio,vscode)](https://skillicons.dev)
 
 <div align="left">
