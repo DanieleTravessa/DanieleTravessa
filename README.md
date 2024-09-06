@@ -5,7 +5,7 @@
 #### - 🔎 I practice Lifelong Learning.
 #### - 🌱 I’m currently learning Data Science.
 #### - 💞️ I’m looking to collaborate in the IT community.
-#### - 📫 How to reach me: send me hi at  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieletravessa))
+#### - 📫 How to reach me: send me hi at  [![LinkedIn](https://skillicons.dev/icons:i=linkedin)](https://linkedin.com/in/danieletravessa))
 #### - 🐣 I'm a newborn in the tech field. So feel free to reach out to me for any practical tips or bits of advice.
 
 <!---
