@@ -15,7 +15,28 @@ You can click the Preview link to take a look at your changes.
 <!---
 ![octocat-1714863745714](https://github.com/DanieleTravessa/DanieleTravessa/assets/115778081/3dc21546-4b6c-402f-8c2c-df12b5f4da12)
 --->
-## Habilidades
+## Skills
+
+<div align="left">
+  [![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,html,css,postgres,mongodb,mysql,go,visualstudio,vscode)](https://skillicons.dev)
+  [![My Tools](https://skillicons.dev/icons?i=git,github,html,css,postgres,mongodb,mysql,go,visualstudio,vscode)](https://skillicons.dev)
+<!--<img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />-->
+</div>
+
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
